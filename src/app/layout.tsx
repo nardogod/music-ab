@@ -28,9 +28,6 @@ export const metadata: Metadata = {
     "espectrograma",
   ],
   authors: [{ name: "Music Analyzer Pro" }],
-  icons: {
-    icon: "/favicon.ico",
-  },
   openGraph: {
     title: "Music Analyzer Pro",
     description: "Análise de áudio profissional no navegador",
